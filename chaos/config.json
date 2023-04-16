@@ -1,7 +1,7 @@
 {
     "name": "chaos",
     "css": [
-        "/style.css"
+        "https://raw.githack.com/scammo/schilder/main/chaos/style.css"
     ],
     "editable_elements": [
         {"tag": "span", "class": "text-logo-black", "default": "CHAOS"},
@@ -9,7 +9,7 @@
         {"tag": "h2", "class": "heading", "default": "Anna und Arthur halten’s Maul"},
         {"tag": "h2", "class": "heading", "default": "Sei wie Anna und Arthur"},
         {"tag": "h2", "class": "heading", "default": "👮🤐👮‍♀️"},
-        {"tag": "a", "class": "qr-code-url1", "size": 180, "default": "https://md.chaotikum.org/s/88WrgcnoQ"},
+        {"tag": "a", "class": "qr-code-url1", "size": 180, "default": "https://hackmd.okfn.de/s/HyR6MaeMn"},
         {"tag": "span", "class": "qr-code1-text", "size": 180, "default": "Link Liste"}
     ]
 }
